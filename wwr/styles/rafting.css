@@ -1,0 +1,33 @@
+:root {
+    --background-color: rgb(#433a3f);
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+nav {
+    background-color: var(--background-color);
+    padding: 10px;
+}
+
+nav a {
+    text-decoration: none !important;
+}
+
